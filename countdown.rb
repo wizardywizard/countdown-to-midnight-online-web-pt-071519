@@ -1,4 +1,4 @@
-#write your code here
+
 
 def countdown(num)
   until num == 0
@@ -8,6 +8,3 @@ def countdown(num)
   "HAPPY NEW YEAR!"
 end
 
-def countdown_with_sleep
-  
-end
