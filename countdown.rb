@@ -3,5 +3,6 @@
 def countdown(num)
   until num == 0
   puts "#{num} SECOND(S)!"
-end
+  num -= 1
+  end
 end
